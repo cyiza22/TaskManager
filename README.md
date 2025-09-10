@@ -1,1 +1,1 @@
-this is a to do list flask application
+This is a to do list flask application
